@@ -37,7 +37,7 @@ if os.path.exists(LOG_FILE_NAME):
     print("Log File Removed.")
 
 # Setup yagmail
-password = "Adri0803*"
+password = "............."
 yag = yagmail.SMTP("sunzheini@gmail.com", password)
 print("Email setup OK.")
 
